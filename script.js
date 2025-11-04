@@ -1,5 +1,5 @@
 // Select the list element
-const list = document.getElementById("list");
+const list = document.getElementById("infi-list");
 
 // Keep track of how many items are currently in the list
 let itemCount = 0;
