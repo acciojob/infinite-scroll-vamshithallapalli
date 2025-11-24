@@ -7,13 +7,18 @@ body {
 main {
   max-width: 400px;
   margin: 0 auto;
+	border:4px solid black;
 }
 
 ol {
-  padding-left: 20px;
+  padding: 20px;
 }
 
 li {
   padding: 10px;
-  border-bottom: 1px solid #ccc;
+  list-style: none;
+}
+
+li:hover{
+	background-color: grey;
 }
