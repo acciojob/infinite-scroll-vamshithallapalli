@@ -11,7 +11,9 @@ main {
 }
 
 ol {
-  padding: 20px;
+  padding: 5px 20px;
+  max-height: 400px;
+  overflow-y: auto;
 }
 
 li {
